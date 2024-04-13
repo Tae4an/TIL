@@ -104,7 +104,7 @@
 
 ## 주요 오픈소스 라이선스 분류
 
-<img height="350" src="C:\Users\최태산\Desktop\웹개발\for-record\resource\오픈소스 라이선스 분류.jpeg" width="500"/>
+<img height="350" src="https://github.com/ChoiTaeSan/For-Record/blob/main/resource/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%20%EB%B6%84%EB%A5%98.jpeg" width="500"/>
 
 ## 주요 오픈소스 라이선스 소개
 
