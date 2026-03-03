@@ -1,0 +1,71 @@
+# Alert Logic란?
+
+## 개념 정의
+
+Alert Logic는 **Managed Detection and Response(MDR)를 제공하는 보안 서비스 업체**이다.  
+클라우드·온프레미스·하이브리드 환경에서 발생하는 로그·이벤트·네트워크·엔드포인트·클라우드 활동을 수집·분석하고, 24/7 보안 전문가가 위협을 탐지·분석·대응까지 지원하는 MDR/XDR 형태의 Security-as-a-Service를 제공함. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/)
+
+***
+
+## Alert Logic가 하는 일 한 줄로  
+
+“SIEM·IDS·WAF·취약점 진단 같은 기술 스택 위에, 24/7 SOC 인력이 붙어서 **보안 모니터링 + 탐지 + 분석 + 대응 가이드를 대신 해주는 MDR 서비스**”라고 보면 됨. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/what-is-mdr/)
+
+***
+
+## 핵심 특징
+
+**Managed Detection and Response(MDR) 서비스**
+
+- 24/7 위협 모니터링, 로그·이벤트 분석, 위협 헌팅, 인시던트 분석·에스컬레이션 제공. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/)
+- 네트워크 트래픽, 로그, 엔드포인트, 클라우드 워크로드, 사용자 행동 등 다양한 텔레메트리 통합 분석. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/what-is-mdr/)
+
+**클라우드·하이브리드 특화**
+
+- AWS, Azure, 온프레미스, 하이브리드 환경 전체를 대상으로 보안 가시성 제공. [alertlogic](https://www.alertlogic.com/resources/solution-briefs/saas-security-built-for-aws/)
+- AWS에 특화된 “Security Built for AWS” 솔루션 브리프를 통해 API 기반 자동화, DevOps 템플릿 등을 제공. [alertlogic](https://www.alertlogic.com/resources/solution-briefs/saas-security-built-for-aws/)
+
+**서비스 범위(Security-as-a-Service)**
+
+- IDS(침입 탐지), WAF(웹 애플리케이션 보호), SIEM(로그 수집/분석), 취약점 스캔, 클라우드 구성 진단 등 포괄. [prtimes](https://prtimes.jp/main/html/rd/p/000000015.000018557.html)
+- 자체 플랫폼 + 위협 인텔리전스 + 보안 분석가로 구성된 24/7 SOC 운영. [alertlogic](https://www.alertlogic.com/company/about-us/)
+
+**전담 SOC·전문 인력 제공**
+
+- 고객 대신 경보를 선별·분류·정탐/오탐 판별, 고위험 인시던트는 전화·메일·티켓으로 즉시 에스컬레이션. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/what-is-mdr/)
+- 위협 조사 결과와 대응 권고(Contain/Remediate)를 함께 제공하여 내부 팀의 작업 부담을 줄이는 구조. [prtimes](https://prtimes.jp/main/html/rd/p/000000015.000018557.html)
+
+***
+
+## 주요 기능
+
+**1) 위협 탐지·분석**
+
+- 네트워크 IDS로 트래픽 기반 공격 탐지. [prtimes](https://prtimes.jp/main/html/rd/p/000000015.000018557.html)
+- 로그 수집·관리·이벤트 상관분석으로 의심 행위·IOC 탐지. [alertlogic](https://www.alertlogic.com/resources/solution-briefs/saas-security-built-for-aws/)
+- 엔드포인트·클라우드 활동, 사용자 행위 기반 이상 징후 분석. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/what-is-mdr/)
+
+**2) 취약점·구성 진단**
+
+- 취약점 스캔(Scans)으로 시스템·애플리케이션의 보안 취약점 점검. [prtimes](https://prtimes.jp/main/html/rd/p/000000015.000018557.html)
+- Cloud Insight 등으로 클라우드 리소스 구성 오류·노출 리스크 가시화. [alertlogic](https://www.alertlogic.com/resources/solution-briefs/saas-security-built-for-aws/)
+
+**3) 인시던트 대응 지원**
+
+- 검증된 인시던트에 대해 우선순위 지정, 영향 범위 설명, 대응 조치 가이드 제공. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/what-is-mdr/)
+- 자동화 가능한 영역은 플레이북·자동 대응(Response Automation)으로 처리, 나머지는 분석가가 수동 개입. [alertlogic](https://www.alertlogic.com/managed-services/managed-detection-and-response/what-is-mdr/)
+
+**4) 컴플라이언스 지원**
+
+- 로그 관리, 보고서, 대시보드 제공으로 규제·컴플라이언스(예: PCI DSS 등) 대응 지원. [alertlogic](https://www.alertlogic.com/resources/solution-briefs/saas-security-built-for-aws/)
+
+***
+
+## 어디에 쓰는지 (사용 목적)
+
+- 자체 SOC/SIEM 운영 여력이 부족하지만, 24/7 보안 관제·탐지·대응 기능이 필요한 조직. [alertlogic](https://www.alertlogic.com/company/about-us/)
+- AWS 등 클라우드 환경을 중심으로 한 워크로드 보안, 구성 오류·취약점 관리, 규제 대응이 필요한 기업. [prtimes](https://prtimes.jp/main/html/rd/p/000000015.000018557.html)
+- 단순 알림만 쌓이는 SIEM이 아니라, **“정리된 인시던트 + 대응 가이드까지”** 제공하는 MDR 모델을 원하는 경우. [alertlogic](https://www.alertlogic.com/company/about-us/)
+
+요약하면, Alert Logic는 **MDR/XDR 기반 클라우드형 보안 관제 서비스 업체**이고,  
+네트워크·로그·클라우드·애플리케이션 전반을 모니터링해, 고객 대신 위협을 찾아내고 분석하고 대응하도록 도와주는 역할을 한다.
